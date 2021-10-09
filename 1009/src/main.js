@@ -4,4 +4,4 @@ export default function () {
 }
 
 console.log('start')
-console.log(cess.env.Node_ENV)
+console.log(process.env.Node_ENV)
