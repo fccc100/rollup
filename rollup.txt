@@ -1,0 +1,3 @@
+1.rollup导入后是一个对象，有VERSION属性及defineConfig、rollup、watch三个方法
+2.可以直接使用-i -o等命令，也可以使用rollup.config.js配置文件，使用配置文件，加上-c
+3.rollup-plugin-replace可以设置需要替换的值，在plugins中配置
